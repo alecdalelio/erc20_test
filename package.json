@@ -1,0 +1,19 @@
+{
+  "name": "erc-20-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.2.1-solc-0.7"
+  },
+  "devDependencies": {},
+  "directories": {
+    "test": "test"
+  },
+  "description": ""
+}
